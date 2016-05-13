@@ -6,7 +6,7 @@
 
 #define TITEL "FARM EDV"
 #define VERSION   "1.2"
-// nochmal ein test
+
 int main()
 {
 	int eingabe = 0;
