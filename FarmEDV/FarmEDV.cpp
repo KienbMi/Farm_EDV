@@ -1,4 +1,4 @@
-// FarmEDV.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
+// FarmEDV.cpp : Definiert den Einstiegspunkt fÃ¼r die Konsolenanwendung.
 //
 
 #include "stdafx.h"
@@ -14,7 +14,7 @@ int main()
     Farm farm;
 
 	cout << "## WELCOME TO " << TITEL << " " << VERSION << " ##" << endl;
-	cout << "........lade Farmdaten" << endl << endl;
+	cout << ".........lade Farmdaten" << endl << endl;
 	farm.loadTiere();
 	datengeladen = 1;
 
