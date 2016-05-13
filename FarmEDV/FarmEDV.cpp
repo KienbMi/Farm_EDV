@@ -1,4 +1,4 @@
-// FarmEDV.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
+// FarmEDV.cpp : Definiert den Einstiegspunkt fÃ¼r die Konsolenanwendung.
 //
 
 #include "stdafx.h"
@@ -6,7 +6,7 @@
 
 #define TITEL "FARM EDV"
 #define VERSION   "1.2"
-
+//das ist ein test
 int main()
 {
 	int eingabe = 0;
