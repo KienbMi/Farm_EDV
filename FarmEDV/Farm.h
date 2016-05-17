@@ -5,8 +5,7 @@
 #include <vector>
 #include <iterator>
 #include <fstream>
-//test
-//test2
+
 class Farm
 {
 private:   
