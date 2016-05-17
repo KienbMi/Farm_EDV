@@ -4,7 +4,7 @@
 #define DATEINAME_KLEINTIERE "Kleintiere.txt"
 #define DATEINAME_TIERE   "Tiere.txt"
 
-//aldkjfäasdfg
+//push test - -- - -- -- - askdlöfjöaslkd --- -sSSSSSSDFAFDFA sSSdKFKLSL leed
 Farm::Farm() {
 	this->preis_ei = 0.4f;
 	this->preis_milch = 0.8f;
